@@ -1,0 +1,15 @@
+figure
+cache
+*\.rda
+*\.log
+*\.dvi
+*\.aux
+*\.blg
+*\.toc
+*\.out
+*\.nav
+*\.spl
+*\.so
+*\.o
+*~
+
