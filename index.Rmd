@@ -33,7 +33,8 @@ Examples will be drawn from ecology, economics, epidemiology, finance and elsewh
     + Web: dept.stat.lsa.umich.edu/~ionides
     + Office hours:  Mon 11:30-12:30; Wed 1:00-2:00. 
 * GSI: Dao Nguyen
-    + Office hours and R advice: inquire by email
+    + Office hours: Tue 10:00-11:00, Science Learning Center, 1720 Chemistry Building.
+    + Computing support: inquire by email, with a detailed description of the problem, what you did, and what error message you obtained.
     + E-mail: nguyenxd@umich.edu
 * Textbook: R. Shumway and D. Stoffer ``Time Series Analysis and its Applications'' 3rd edition. Available for free from [David Stoffer's website](www.stat.pitt.edu/stoffer/tsa3/tsa3.pdf)
 * Pre-requisites: Stat 426 (Introduction to Theoretical
